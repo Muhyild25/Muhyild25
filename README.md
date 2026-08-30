@@ -47,7 +47,8 @@
 * **Sudoku-Game-CSharp:** Windows Forms game integrated with backtracking algorithms for puzzle solving.
 * **YHT-Seyahat-Asistani:** CLI tool developed in the Google Antigravity environment to assist with travel budgets.
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
-[![Muhyild25 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhyild25&show_icons=true&theme=tokyonight)](https://github.com/Muhyild25)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhyild25&layout=compact&theme=tokyonight)](https://github.com/Muhyild25)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Muhyild25&theme=tokyonight)](https://github.com/Muhyild25)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhyild25&theme=tokyo-night)](https://github.com/Muhyild25)
