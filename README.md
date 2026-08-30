@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1500&color=36BCF5&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Muhammed+Yıldırım;Computer+Engineering+Student+@+ESOGÜ;Aspiring+Data+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1500&color=36BCF5&center=true&vCenter=true&width=800&lines=Hi,+I'm+Muhammed+Yildirim;Computer+Engineering+Student+at+ESOGU;Aspiring+Data+Engineer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhyild25&color=36BCF5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -50,6 +54,8 @@
 
 ### 📊 GitHub Stats & Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Muhyild25&theme=tokyonight)](https://github.com/Muhyild25)
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhyild25&theme=tokyo-night)](https://github.com/Muhyild25)
+<p align="center">
+  <a href="https://github.com/Muhyild25">
+    <img src="https://streak-stats.demolab.com/?user=Muhyild25&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</p>
