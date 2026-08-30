@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Muhammed Yıldırım</h1>
-<h3 align="center">Computer Engineering Student @ ESOGÜ | Aspiring Data Engineer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1500&color=36BCF5&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Muhammed+Yıldırım;Computer+Engineering+Student+@+ESOGÜ;Aspiring+Data+Engineer" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammed-y%C4%B1ld%C4%B1r%C4%B1m-8456a633a/">
