@@ -48,7 +48,6 @@
 * **YHT-Seyahat-Asistani:** CLI tool developed in the Google Antigravity environment to assist with travel budgets.
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhyild25&show_icons=true&theme=tokyonight" alt="Muhyild25 GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhyild25&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
+[![Muhyild25 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhyild25&show_icons=true&theme=tokyonight)](https://github.com/Muhyild25)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhyild25&layout=compact&theme=tokyonight)](https://github.com/Muhyild25)
