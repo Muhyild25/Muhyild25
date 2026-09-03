@@ -58,4 +58,7 @@
   <a href="https://github.com/Muhyild25">
     <img src="https://streak-stats.demolab.com/?user=Muhyild25&theme=tokyonight" alt="GitHub Streak" />
   </a>
+  <a href="https://github.com/Muhyild25">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhyild25&theme=radical" alt="Top Languages" />
+  </a>
 </p>
