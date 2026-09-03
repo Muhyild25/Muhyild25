@@ -20,7 +20,7 @@
 * 💡 Passionate about **Machine Learning, Deep Learning, and Data Analytics**, actively working towards a career as a Data Engineer.
 * 🔭 Co-founded a research initiative focused on **DNA Data Storage**, developing Python pipelines for audio-to-DNA encoding.
 * 🏆 Advanced to the semi-finals in Anadolu Grubu's Bi-Fikir KAP competition with the **DeepVision** autonomous quality control project.
-* 📜 Certified in *Fundamentals of Deep Learning* by the **NVIDIA Deep Learning Institute** and holds an **Anthropic Claude** certification.
+* 📜 Certified in *Fundamentals of Deep Learning* by the **NVIDIA Deep Learning Institute**, holds an **Anthropic Claude** certification, and completed the *Bilgisayar Ağlarına Giriş* course by **BTK Akademi**.
 * 🚀 Previously organized technology news bulletins for the ESOGÜ Teknofest Kulübü.
 
 ### 🛠️ Tech Stack
@@ -57,8 +57,5 @@
 <p align="center">
   <a href="https://github.com/Muhyild25">
     <img src="https://streak-stats.demolab.com/?user=Muhyild25&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/Muhyild25">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhyild25&theme=radical&v=1" alt="Top Languages" />
   </a>
 </p>
